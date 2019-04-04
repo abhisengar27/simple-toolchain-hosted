@@ -13,9 +13,9 @@ template:
     - sample-repo
   info:
     git url: >-
-      [https://github.com/abhisengar27/simple-toolchain-hosted.git](https://github.com/abhisengar27/simple-toolchain-hosted.git)
+      [https://github.com/abhisengar27/simple-toolchain-hosted](https://github.com/abhisengar27/simple-toolchain-hosted)
     git branch: >-
-      [master](https://github.com/abhisengar27/simple-toolchain-hosted/tree/master/)
+      [master](https://github.com/abhisengar27/simple-toolchain-hosted/)
 toolchain:
   name: 'simple-toolchain-{{timestamp}}'
   template:
