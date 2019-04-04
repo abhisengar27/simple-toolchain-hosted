@@ -15,7 +15,7 @@ template:
     git url: >-
       [https://github.com/abhisengar27/simple-toolchain-hosted](https://github.com/abhisengar27/simple-toolchain-hosted)
     git branch: >-
-      [master](https://github.com/abhisengar27/simple-toolchain-hosted/)
+      [master](https://github.com/abhisengar27/simple-toolchain-hosted/tree/master)
 toolchain:
   name: 'simple-toolchain-{{timestamp}}'
   template:
